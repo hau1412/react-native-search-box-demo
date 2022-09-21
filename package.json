@@ -1,0 +1,19 @@
+{
+  "name": "@hau1412/react-native-search-box-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hau1412/react-native-search-box-demo.git"
+  },
+  "author": "hau1412",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hau1412/react-native-search-box-demo/issues"
+  },
+  "homepage": "https://github.com/hau1412/react-native-search-box-demo#readme"
+}
